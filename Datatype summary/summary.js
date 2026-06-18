@@ -27,7 +27,7 @@ const scorevalue=100.3
 const names=["ahmed","ali","aooo"]
 
 let myobj={
-    name:"ahmed",
+    name:"ali",
     age:12,
 }
 const myfunction=function() {
